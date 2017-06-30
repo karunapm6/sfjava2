@@ -1,0 +1,11 @@
+[0621/110919.972:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110919.980:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110920.076:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110920.076:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110920.076:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110920.076:ERROR:process_reader_win.cc(142)] SuspendThread: Access is denied. (0x5)
+[0621/110920.076:ERROR:process_reader_win.cc(114)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[0621/110920.097:ERROR:process_reader_win.cc(114)] NtOpenThread: An invalid Client ID was specified.  (0xc000000b)
+[0621/110920.245:ERROR:exception_snapshot_win.cc(87)] thread ID 1380 not found in process
+[0621/110920.245:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::Initialize failed
+[0621/110920.245:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess: An attempt was made to access an exiting process.  (0xc000010a)
